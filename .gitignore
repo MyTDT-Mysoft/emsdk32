@@ -1,0 +1,19 @@
+# node dependency
+emsdk/node/18.20.8-32bit/bin/*
+!emsdk/node/18.20.8-32bit/bin/.gitkeep
+
+# python dependency
+emsdk/python3.13/*
+!emsdk/python3.13/.gitkeep
+
+# clang/binaryen dependency
+emsdk/upstream/bin/*
+!emsdk/upstream/bin/.gitkeep
+
+# freebasic sub-repository (including it's folder name)
+fbc-master/
+/emcmdfreebasic.bat
+
+# personal backup (including folder name)
+emsdk-bkp/
+Tests/
