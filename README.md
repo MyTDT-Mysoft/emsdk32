@@ -5,7 +5,7 @@ to use just the release (which containts the dependency binaries) and you can up
 once downloaded inside emsdk32 folder execute one of the following:
 
 # emsdk_env.bat
-to add initialize the environment (so you can use EMCC from cmd prompt)
+to initialize the environment (so you can use EMCC from cmd prompt)
 or...
 
 # emcmdprompt.bat
