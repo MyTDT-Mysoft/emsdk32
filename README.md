@@ -1,7 +1,8 @@
 # emsdk32
 Emscripten Toolchain Portable for windows 7+ 
 
-to use just grab the repository zip file or pull/fetch it from git and inside emsdk32 folder execute one of the following
+to use just the release (which containts the dependency binaries) and you can update it using the repository download/pull/fetch.
+once downloaded inside emsdk32 folder execute one of the following:
 
 # emsdk_env.bat
 to add initialize the environment (so you can use EMCC from cmd prompt)
